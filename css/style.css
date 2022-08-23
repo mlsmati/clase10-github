@@ -3,6 +3,17 @@
     padding: 0;
 }
 
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 50px;
+}
+
+h1:hover{
+    color: crimson;
+    text-decoration: underline;
+    transition: .2s;
+}
 
 .grid-container{
     max-width: 800px;
