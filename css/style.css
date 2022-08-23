@@ -23,3 +23,14 @@
 .grid-container img{
     width: 250px;
 }
+
+.footer{
+    background-color: #476A6F;
+}
+.footer ul{
+    display: flex;
+    list-style: none;
+    width: 450px;
+    margin: 0 auto;
+    justify-content: center;
+}
